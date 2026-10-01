@@ -1,0 +1,18 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Do not commit real shell history unless intentionally sanitized for submission
+.bash_history
+
+# Local generated logs
+*.log
+
+# Passwords/secrets
+.env
+*.key
+*.pem

@@ -1,0 +1,8 @@
+PLACEHOLDER — REPLACE WITH ACTUAL LAB EVIDENCE
+
+The task requires a screenshot or text file showing:
+
+ls -laR /home/agent007/mission/
+
+Run that command on the completed Kali Linux workspace and paste the real output
+here, or provide the requested screenshot.

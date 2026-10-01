@@ -1,0 +1,9 @@
+PLACEHOLDER — REPLACE WITH ACTUAL LAB EVIDENCE
+
+The task requires the student's command history (.bash_history) or a copy-paste
+of commands used.
+
+Do not submit this placeholder as the final evidence. Copy the actual commands
+used during the Kali Linux lab into this file.
+
+Do not include passwords.

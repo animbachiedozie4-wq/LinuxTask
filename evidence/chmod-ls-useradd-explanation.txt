@@ -1,0 +1,11 @@
+PLACEHOLDER — COMPLETE BEFORE SUBMISSION
+
+The task requires a 4–5 line explanation of chmod, ls -l, and useradd.
+
+Suggested structure to complete in your own words:
+1. chmod is a Linux command used to change the permissions of files and directories.
+2. In this task, chmod is used to give targets.txt read/write permission to its owner,
+   read-only permission to its group, and no permission to others.
+3. ls -l displays a detailed directory listing including permissions, ownership, size,
+   and related file information.
+4. useradd is a command used to create a new Linux user account with specified options.
